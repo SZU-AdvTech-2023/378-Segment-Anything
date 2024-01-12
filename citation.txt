@@ -1,0 +1,8 @@
+@misc{REPO378,
+    author = "Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll¨¢r, Piotr and Girshick, Ross",
+    archiveprefix = "arXiv",
+    eprint = "2304.02643",
+    primaryclass = "cs.CV",
+    title = "{Segment Anything}",
+    year = "2023"
+}
